@@ -1,0 +1,3 @@
+C:/Users/Maizel/CLionProjects/lab2InC/cmake-build-debug/CMakeFiles/lab2InC.dir
+C:/Users/Maizel/CLionProjects/lab2InC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maizel/CLionProjects/lab2InC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
